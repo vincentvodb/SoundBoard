@@ -5,7 +5,7 @@ Made a soundboard for my volleybalteam
 To add sounds
 - Create a folder named "Sounds" in the debug folder after building the project.
 - The naming is based on the double for loop. [Matrix] 
-Add wav files and follow these naming rules:
+- Add wav files and follow these naming rules:
   00.wav,
   01.wav,
   02.wav,
