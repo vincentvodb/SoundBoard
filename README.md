@@ -1,7 +1,7 @@
 # SoundBoard
 Made a soundboard for my volleybalteam
 
-#Sounds
+**Sounds**
 To add sounds
 - Create a folder in the debug folder "Sounds"
 - Add wav files and follow these naming rules:
